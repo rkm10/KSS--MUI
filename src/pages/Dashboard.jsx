@@ -60,7 +60,7 @@ export default function Dashboard() {
                             sx={{ 
                                 width: mobiles ? 100 : 200, 
                                 fontSize: mobiles ? '0.75rem' : '1rem',
-                                padding: mobiles ? '0.2rem' : '0.5rem',
+                                // padding: mobiles ? '0.2rem' : '0.5rem',
                             }}
                         />
                     </Stack>
